@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to CinemaCar!
 
-You can use the [editor on GitHub](https://github.com/CinemaCar/cinemacar/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+CinemaCar è la soluzione per i nuovi Drive In 2.0 integrata e gratuita per i gestori
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Quando sarà disponibile?
 
-### Markdown
+Stiamo testando CinemaCar, consulta questa pagina nei prossimi giorni per sapere quando sarà disponibile a tutti.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Support
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CinemaCar/cinemacar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vuoi aiutarci nello sviluppo, legal e commerciale, di CinemaCar? Hai bisogno di altre informazioni? Consulta questa pagina nelle prossime ore, inseriremo tutti i nostri contatti.
